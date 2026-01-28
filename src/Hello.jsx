@@ -17,7 +17,8 @@ const Hello = () => {
   color:"green",
   fontSize:"50px",
   fontFamily:"Arial, sans-serif",
-  textAlign:"center"
+  textAlign:"center",
+background-color:"red";
 };
 
   return (
