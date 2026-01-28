@@ -8,6 +8,8 @@ function App() {
   return (
     <>
 <Hello/>
+<Hello/>
+
 <img src={viteLogo} className="logo" alt="Vite logo" />
     <Cards/>
     
