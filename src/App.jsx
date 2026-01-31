@@ -1,9 +1,11 @@
-import Hello from './Hello.jsx'
+// import Hello from './Hello.jsx'
+import Array_Object from './Arra_Object.jsx'
 function App() {
 
   return (
     <>
-<Hello/>
+    <Array_Object/>
+{/* <Hello/> */}
 
     
     </>
