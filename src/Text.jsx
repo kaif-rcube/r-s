@@ -11,5 +11,5 @@
       )
     }
     
-    export default first
+    export default Text
     
